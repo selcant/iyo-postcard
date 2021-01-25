@@ -3,7 +3,7 @@ title: "Selcan Aydin"
 image: "avatar.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/selcanaydin"
+    url: "https://linkedin.com/selcanayd"
   - label: Twitter
     url: "https://twitter.com/selcan_t"
   - label: GitHub
