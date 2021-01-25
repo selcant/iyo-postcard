@@ -1,0 +1,17 @@
+---
+title: "Selcan Aydin"
+image: "avatar.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/selcanaydin"
+  - label: Twitter
+    url: "https://twitter.com/selcan_t"
+  - label: GitHub
+    url: "https://github.com/selcant"
+  - label: Email
+    url: "mailto:selcant@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+Hello!
